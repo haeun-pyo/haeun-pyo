@@ -6,13 +6,17 @@
 </p>
 <br/>
 
+<!--
 <h2 align="center">💡 My Most Used Languages 💡</h2>
 <p align="center">
-  <a href="https://github.com/Easy-Hwan">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Easy-Hwan&layout=compact&show_icons=true&show_owner=ture&hide_title=true&theme=nord&hide=Objective%2DC,c,scss,shell,ruby,dart,swift" />
+  <a href="https://github.com/haeun-pyo">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haeun-pyo&layout=compact&show_icons=true&show_owner=true&hide_title=false&theme=nord" />
   </a>
+   <br/>
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=haeun-pyo&show_icons=true&theme=nord" /> 
 </p>
 <br/>
+-->
 
 <h2 align="center">🛠 Tech Stack 🛠</h2>
 <p align="center"> Techs that I've used at least once </p>
